@@ -1,0 +1,12 @@
+#carouselExampleIndicators .carousel-inner {
+	max-height: 500px;
+}
+
+/*.carousel-inner {
+	display: flex;
+	align-items: center;
+}*/
+
+.card-body {
+	max-height: 230px;
+}
